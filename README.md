@@ -32,10 +32,13 @@ The following tools were used in the construction of the project:
 
 
 ### How to use
+Register with tmdb if you don't have an account. Go to Settings -> API, create an API key. Copy the key, then add an .env file with the following
+variable API_KEY={api_key}.
+
+Once that's done, run the following commands:
 ```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+- yarn - install dependencies
+- yarn start'' to run the application
 ```
 
 ### Autor
