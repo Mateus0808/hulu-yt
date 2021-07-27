@@ -37,8 +37,8 @@ variable API_KEY={api_key}.
 
 Once that's done, run the following commands:
 ```bash
-- yarn - install dependencies
-- yarn start'' to run the application
+- yarn: install dependencies
+- yarn start: to run the application
 ```
 
 ### Autor
