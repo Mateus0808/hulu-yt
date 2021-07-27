@@ -2,21 +2,52 @@
 
 This aplication shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
+# Hulu 2.0
+---
+### Project description
+<p align="center">Application built for movie listing.</p>
+
+### Project Status
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
+
+### Features
+- [x] Film requisition by genre
+- [x] Movie requisition by trends
+- [x] Request for top rated movies
+
+### Pré-requisitos
+Before starting, you will need to have the following tools installed on your machine: [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) or [Yarn](https://yarnpkg.com/).
+Also it's nice to have an editor to work with the code like [VSCode](https://code.visualstudio.com/)
+
+### 🛠 Technologies
+
+The following tools were used in the construction of the project:
+
+- [Next.js](https://nextjs.org/)
+- [React](https://pt-br.reactjs.org/)
+- [API TMDB](https://www.themoviedb.org/?language=pt-BR)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 
-## Preview
-
-## Deploy your own
-
-
-
-## How to use
-
-
+### How to use
 ```bash
 npx create-next-app --example with-tailwindcss with-tailwindcss-app
 # or
 yarn create next-app --example with-tailwindcss with-tailwindcss-app
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+### Autor
+---
+<a href="">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47755555?s=400&u=c38445d9bd8886642d093308cdad61e4642d4b8a&v=4" width="150px;" alt=""/>
+<br />
+<sub><b>Mateus dos Santos</b></sub></a> <a href="">🚀</a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-santos-aa0623196//)](https://www.linkedin.com/in/mateus-santos-aa0623196/) 
+[![Gmail Badge](https://img.shields.io/badge/-loiolamateus7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loiolamateus7@gmail.com)](mailto:loiolamateus7@gmail.com)
+
+
+### License
+Virtual Store is available under the [MIT license](https://opensource.org/licenses/MIT). 
