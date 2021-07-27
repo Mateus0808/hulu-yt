@@ -1,4 +1,4 @@
-# Next.js + Tailwind and TMDB
+# Next.js + Tailwind CSS and TMDB
 
 This aplication shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
@@ -9,7 +9,7 @@ This aplication shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2
 
 ### Project Status
 <h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
+	🚧  Next.js Application 🚀 Under construction... 🚧
 </h4>
 
 ### Features
@@ -33,7 +33,7 @@ The following tools were used in the construction of the project:
 
 ### How to use
 Register with tmdb if you don't have an account. Go to Settings -> API, create an API key. Copy the key, then add an .env file with the following
-variable API_KEY={api_key}.
+variable API_KEY={api_key_tmdb}.
 
 Once that's done, run the following commands:
 ```bash
