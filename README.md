@@ -37,7 +37,7 @@ Once that's done, run the following commands:
 - yarn start: to run the application
 ```
 
-### Autor
+### Author
 ---
 <a href="">
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47755555?s=400&u=c38445d9bd8886642d093308cdad61e4642d4b8a&v=4" width="150px;" alt=""/>
